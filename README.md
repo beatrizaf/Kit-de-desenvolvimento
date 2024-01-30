@@ -1,26 +1,8 @@
-<br><br>
-<h3><center>Vídeo de Apresentação do Projeto: https://www.youtube.com/watch?v=SzdUmRD_gx8</center></h3>
-<br><br>
-<h2><center>INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA PARAÍBA</center></h2>
-<h3>BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO</center></h3>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<h4>ANA BEATRIZ DE ARAÚJO FARIAS</h4>
-<h4>BIANCA HENRIQUE RANGEL</h4>
-<h4>MARIA LUÍZA TEIXEIRA NASCIMENTO</h4>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<h4><center>KIT PARA DESENVOLVIMENTO DE SISTEMAS EMBARCADOS</center></h4>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<h5><center>CAMPINA GRANDE</center></h5>
-<h5><center>2022</center></h5>
+# Kit de Desenvolvimento
+
+⚡ The overall objective of this work is to create and develop a kit for Embedded Systems development, aiming to apply the knowledge acquired in the Prototyping Techniques discipline. This involves the fundamentals of creating a schematic model, block diagram, and layout, up to 3D modeling.
+
+# Acquired skills
+
+![Fusion](https://img.shields.io/badge/-fusion-0D1117?style=for-the-badge&logo=fusion&labelColor=0D1117)&nbsp;
+![Prusa](https://img.shields.io/badge/-Prusa-0D1117?style=for-the-badge&logo=Prusa-slice&labelColor=0D1117)&nbsp;
